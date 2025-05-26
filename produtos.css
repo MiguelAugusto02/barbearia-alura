@@ -1,11 +1,12 @@
 header {
     background: #bbb;
-} 
+}
+
 .caixa {
     position: relative;
     width: 940px;
     margin: 0 auto;
-    } 
+}
 
 nav {
     position: absolute;
@@ -14,17 +15,18 @@ nav {
 }
 
 nav li {
-    display: inline; 
+    display: inline;
     margin: 0 0 0 15px;
 }
 
 nav a {
-     text-transform: uppercase;
-     color: #000;
-     font-weight: bold;
-     font-size: 22px;
-     text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
+
 .produtos {
     width: 940px;
     margin: 0 auto;
