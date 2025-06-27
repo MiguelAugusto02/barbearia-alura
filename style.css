@@ -46,13 +46,13 @@ header {
 .imagembeneficios {
     width: 60%;
     opacity: 1;
-    transition:400ms;
-    box-shadow:10px 10px 10px 0 #000000;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
 
 }
 
 .imagem-beneficios:hover {
-    opacity:0.3; 
+    opacity: 0.3;
 }
 
 .caixa {
@@ -131,7 +131,7 @@ nav a:hover {
     margin-top: 10px;
 }
 
-main {}
+
 
 .beneficios {
     padding: 3em 0;
